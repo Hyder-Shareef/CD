@@ -1,0 +1,6 @@
+ FILE VS FOLDER (DIRECTORY)
+
+ FILE = A file contains information , and has extentions like .pdf , .txt etc . we can make it with touch and cat 
+
+ FOLDER(DIRECTORY) = Adirectory or a folder contains the files , like an evelope .  we can make it with mkdir
+

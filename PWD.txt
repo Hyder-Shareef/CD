@@ -1,0 +1,16 @@
+PWD 
+
+syntax = pwd: pwd [-LPW]
+
+concept =  it means print work directory . It prints the name of the current working directory.
+
+Basic use = it runs pwd to print the full path, for example  = /c/Users/shae
+
+Options:
+
+      -L        print the value of $PWD if it names the current working
+                directory
+      -P        print the physical directory, without any symbolic links
+      -W        print the Win32 value of the physical directory
+
+
